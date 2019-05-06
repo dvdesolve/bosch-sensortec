@@ -1,0 +1,2 @@
+#define BMP280_PORT PORTB
+#define BMP280_SS   PB2

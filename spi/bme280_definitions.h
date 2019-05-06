@@ -1,0 +1,2 @@
+#define BME280_PORT PORTB
+#define BME280_SS   PB2
